@@ -2,31 +2,14 @@
 
 I am currently a Freshman at the University of Illinois at Urbana-Champaign.
 
-
-1[Image](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/10931317_1514147865540812_2838739791962620220_n.jpg?oh=8ef7c2f1ef1adfa95c40e27c8ccfb811&oe=5A8BF731)
-
 ![alt text](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/10931317_1514147865540812_2838739791962620220_n.jpg?oh=8ef7c2f1ef1adfa95c40e27c8ccfb811&oe=5A8BF731)
 
-### Markdown
+I am from Plainsboro, New Jersey. The greatest place in the universe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(There aren't many remarkable landmarks in plainsboro so here is our hospital:)
 
-```markdown
-Syntax highlighted code block
+![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiqjvLC8YLYAhXsx4MKHTB3CxoQjRwIBw&url=http%3A%2F%2Fwww.njslom.org%2Fmagazine%2F2011-11%2Fpg-10.html&psig=AOvVaw1FGV1cggVAkDgj-3F1-2h8&ust=1513113560319541)
 
-# Header 1
-## Header 2
-### Header 3
+And if you are actually interested in what I have done with my life, here is my LinkedIn:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Link] (https://www.linkedin.com/in/pavan-m-494291111/)
