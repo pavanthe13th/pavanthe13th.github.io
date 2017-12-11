@@ -2,6 +2,8 @@
 
 I am currently a Freshman at the University of Illinois at Urbana-Champaign.
 
+[Image](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/10931317_1514147865540812_2838739791962620220_n.jpg?oh=8ef7c2f1ef1adfa95c40e27c8ccfb811&oe=5A8BF731)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
