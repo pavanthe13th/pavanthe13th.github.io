@@ -1,7 +1,6 @@
-## Welcome to Pavan Marempudi's Personal Website
+# Welcome to Pavan Marempudi's Personal Website
 
-I am currently a Freshman at the University of Illinois at Urbana-Champaign
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a Freshman at the University of Illinois at Urbana-Champaign.
 
 ### Markdown
 
