@@ -9,5 +9,7 @@ I am from Plainsboro, New Jersey. The greatest place in the universe.
 ![alt text](http://www.hok.com/uploads/2013/03/01/princeton01.jpg)
 
 Contact Info:
+
 email: sm13@illinois.edu
+
 phone number: 6098457276
