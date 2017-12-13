@@ -7,5 +7,3 @@ I am from Plainsboro, New Jersey. The greatest place in the universe.
 (There aren't many remarkable landmarks in plainsboro so here is our hospital:)
 
 ![alt text](http://www.hok.com/uploads/2013/03/01/princeton01.jpg)
-
-And if you are actually interested in what I have done with my life, here is my LinkedIn:
